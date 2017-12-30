@@ -33,4 +33,11 @@ Note: this is the experimental setup, the final installation looked much nicer :
 ![Hardware setup](pictures/hardware_setup.jpg)
  
 
+## Installation
+
+* Clone the repository
+* Create a new conda environment from `env.yml` (or install the listed packages in your preferred way)
+* Configure paths etc. in `greenie.py`
+* Run `greenie.py`
+* Check errors, debug, repeat :-)
 
